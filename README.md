@@ -1,4 +1,7 @@
 # attax
 projet en c
-compiler avec :  gcc -ansi -pedantic -Wall projet.c
-executer :  ./a.out
+To compile :  clang -std=c17 projet_attax.c -o projet -lMLV
+to execute :  ./projet -hg
+
+
+
